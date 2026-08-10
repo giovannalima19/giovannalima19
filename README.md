@@ -1,4 +1,14 @@
-## Hi there 👋
+# Olá! Eu sou Giovanna Nascimento Lima 👋
+
+Tenho 19 anos e sou apaixonada por tecnologia e programação. 💻✨
+
+Estou sempre buscando aprender novas ferramentas, desenvolver meus conhecimentos e transformar ideias em projetos. Aqui no meu GitHub, compartilho meus estudos, projetos e minha evolução na área de tecnologia.
+
+🚀 Em constante aprendizado
+💻 Desenvolvimento e programação
+📚 Explorando novas tecnologias
+🌱 Construindo meu caminho na tecnologia
+
 
 <!--
 **giovannalima19/giovannalima19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
