@@ -1,4 +1,4 @@
-# Olá! Eu sou Giovanna Nascimento Lima 👋
+# Olá! Eu sou Giovanna👋
 
 Tenho 19 anos e sou apaixonada por tecnologia e programação. 💻✨
 
